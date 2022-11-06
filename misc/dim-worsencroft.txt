@@ -1,0 +1,3 @@
+title:Worsencroft Codex
+description:A list of high quality weapons originating outside of endgame content
+dimwishlist:item=1561006927&perks=4090651448,1561002382,1354429876,1546637391
