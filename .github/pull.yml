@@ -1,5 +1,5 @@
 version: "1"
 rules:
-  - base: master
-    upstream: 48kloco:master    # change `wei` to the owner of upstream repo
+  - base: azonerath/master
+    upstream: 48kloco:dim-wish-list-sources/master    # change `wei` to the owner of upstream repo
     mergeMethod: rebase
